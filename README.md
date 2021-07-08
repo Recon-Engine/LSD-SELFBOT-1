@@ -2,6 +2,19 @@
 This selfbot is created by Z-Patience aka ZERO &amp; The Harvesters Collective. This bot gets updates every now and again. Bunch of commands for both the good and bad. USE AT YOUR OWN RISK ! ! ! 
 
 
+
+
+# [ UPDATE LOG ]
+         More Powerful Crash Gifs
+         Anti-Nuke Menu Fixed
+         New Source - https://github.com/Recon-Engine/LSD-SELFBOT
+         Anti-Nuke Visual Enabled In Terminal
+         New Owner Instagram
+         BUG Fixes
+
+
+
+
 #USEAGE
 
 -help : Displays Help Menu
