@@ -15,7 +15,7 @@ This selfbot is created by Z-Patience aka ZERO &amp; The Harvesters Collective. 
 
 
 
-#USEAGE
+# USEAGE
 
 -help : Displays Help Menu
 
@@ -24,13 +24,13 @@ EXAMPLE [-help general]
 
 
 
-#MALICIOUS-COMMANDS
+# MALICIOUS-COMMANDS
 
 -malicious : Displays Malicious Menu
 
 
 
-#LINUX-INSTALL
+# LINUX-INSTALL
 
 git clone https://github.com/Z-Patience/LSD-SELFBOT.git
 
